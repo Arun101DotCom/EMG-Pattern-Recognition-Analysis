@@ -44,7 +44,7 @@ Through mean, median, and standard deviation analysis, features were categorized
 ## 📂 Repository Structure
 * `/MATLAB_Scripts`: Data filtering, windowing, and feature extraction.
 * `/Python_ML`: Model training scripts and performance evaluation.
-* `/Report`: Full Dissertation PDF: *"Propose Optimal Conditions for EMG Pattern Recognition Systems.
+* `/Report`: Full Dissertation PDF: *"Propose Optimal Conditions for EMG Pattern Recognition Systems..."*
 
 **Author:** Arun Chakkyadath Chandran
 **Institution:** Newcastle University, UK  
