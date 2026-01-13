@@ -6,6 +6,7 @@ Subjects: 27 intact subjects.
 
 Gestures: 52 different hand movements.
 
-Link: Download NinaPro DB1 here
+Link: Download NinaPro DB1 here https://ninapro.hevs.ch/
+
 
 Note: Due to file size constraints and licensing, the raw data is not hosted in this repository. Please download the dataset from the link above to run the scripts in folder 02.
