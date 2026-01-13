@@ -48,7 +48,7 @@ To navigate the research methodology, please follow the folders in numerical ord
 * **02_Matlab-Data_Preprocessing**: Scripts for digital filtering, windowing experiments (benchmarking 50-25ms through 800-400ms), and SNR/MSE calculations.
 * **03_Feature_Extracted_dataset**: Processed datasets categorized by information density (Best, Moderate, and Least informative).
 * **04_Python-Machine_Learning_Models**: Implementation of KNN, Random Forest, and the Hybrid Model for hand pattern classification.
-* **05_technical_report**: The full MSc Dissertation PDF detailing all experimental targets and final conclusions.
+* **05_Technical_report**: The full MSc Dissertation PDF detailing all experimental targets and final conclusions.
 
 **Author:** Arun Chakkyadath Chandran
 **Institution:** Newcastle University, UK  
