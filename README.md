@@ -41,10 +41,14 @@ Through mean, median, and standard deviation analysis, features were categorized
 | **KNN** | High Consistency | Best for low-latency computation. |
 | **Hybrid Model** | **90.49% (Avg)** | Integrated Time/Freq/T-Freq domains for robust prediction. |
 
-## 📂 Repository Structure
-* `/MATLAB_Scripts`: Data filtering, windowing, and feature extraction.
-* `/Python_ML`: Model training scripts and performance evaluation.
-* `/Report`: Full Dissertation PDF: *"Propose Optimal Conditions for EMG Pattern Recognition Systems..."*
+## 📂 Repository Structure (Research Workflow)
+To navigate the research methodology, please follow the folders in numerical order:
+
+* **01_NinaPro_Dataset_DB1**: Documentation and source links for the raw sEMG signals of 27 subjects.
+* **02_Matlab-Data_Preprocessing**: Scripts for digital filtering, windowing experiments (benchmarking 50-25ms through 800-400ms), and SNR/MSE calculations.
+* **03_Feature_Extracted_dataset**: Processed datasets categorized by information density (Best, Moderate, and Least informative).
+* **04_Python-Machine_Learning_Models**: Implementation of KNN, Random Forest, and the Hybrid Model for hand pattern classification.
+* **05_technical_report**: The full MSc Dissertation PDF detailing all experimental targets and final conclusions.
 
 **Author:** Arun Chakkyadath Chandran
 **Institution:** Newcastle University, UK  
