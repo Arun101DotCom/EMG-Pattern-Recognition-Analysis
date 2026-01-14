@@ -47,7 +47,7 @@ To navigate the research methodology, please follow the folders in numerical ord
 * **01_NinaPro_Dataset_DB1**: Documentation and source links for the raw sEMG signals of 27 subjects.
 * **02_Matlab-Data_Preprocessing**: Scripts for digital filtering, windowing experiments (benchmarking 50-25ms through 800-400ms), and SNR/MSE calculations.
 * **03_Feature_Extracted_dataset**: Processed datasets categorized by information density (Best, Moderate, and Least informative).
-* **04_Python-Machine_Learning_Models**: Implementation of KNN, Random Forest, and the Hybrid Model for hand pattern classification.
+* **04_Python-Machine_Learning_Models**: Implementation of KNN, Random Forest, ANN, LDA, SVM and the Hybrid Model for hand pattern classification.
 * **05_Technical_report**: The full MSc Dissertation PDF detailing all experimental targets and final conclusions.
 * **06_key_findings**: A concise summary PDF highlighting the most significant results, optimal windowing parameters, and the 97.10% accuracy achievement.
 
